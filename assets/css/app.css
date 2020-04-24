@@ -1,0 +1,128 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23/04/2020, 02:41:51 PM
+    Author     : misaellopezortiz
+*/
+
+.fondo {
+    background-image: url('../images/login-fondo.jpg');
+    background-size: cover;
+}
+
+.login-container{
+
+    top: 33vh;
+    background-color: whitesmoke;
+
+}
+.titulo-login{
+    text-align: center;
+    color: #8B0913;
+}
+
+label {
+    text-align: right;
+    display: block;
+}
+
+.test {
+    border: 1px solid red;
+}
+
+.contenedor-producto {
+    background-color: whitesmoke;
+
+}
+
+.contenedor-imagen {
+    display: block;
+    width: 100%;
+}
+.texto-producto {
+    color: black;
+    text-align: left;
+}
+
+.texto-nombre-producto {
+    color: black;
+    font-size: 30px;
+}
+.imagen-producto{
+    height: 130px;
+}
+.contenedor-galeria {
+    background-color: grey;
+    margin-top: 20px;
+
+}
+
+.contenedor-carrito {
+    background-color: rgba(206,197,172,1);
+    border-radius: 3px;
+    border:1px solid gray;
+
+}
+
+.total {
+    text-align: left;
+}
+
+.boton-cancelar {
+    float: right;
+}
+
+.boton-pagar {
+    float: right;
+}
+
+.contenedor-total {
+    border-left: 1px solid gray;
+    margin-left: 5px;
+
+}
+
+.contenedor-producto-pedido {
+    border:1px solid gray;
+    border-radius: 3px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    background-color: lightgray;
+}
+.contenedor-datos-pedido {
+    background-color: rgba(230,230,230,1);
+}
+.contenedor-subtotal-pedido {
+    background-color: rgba(230,230,230,1);
+}
+.contenedor-imagen-pedido {
+    padding: 2px 2px ;
+}
+
+.contenedor-producto-detalle {
+    background-color: rgba(230,230,230,1);
+}
+
+.contenedor-producto-info {
+    border-left: 1px solid gray;
+}
+.contenedor-producto-botones {
+    margin: 5px 5px;
+}
+
+.contenedor-producto-imagen {
+    padding: 5px 5px;
+    background-color: whitesmoke;
+    height: auto;
+}
+
+.img-producto {
+    width: inherit;
+}
+
+.img-carrito {
+    width: inherit;
+}
